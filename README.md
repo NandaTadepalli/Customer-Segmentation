@@ -19,8 +19,8 @@ This project implements a customer segmentation analysis dashboard using RFM (Re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NandaTadepalli/Customer-Segmentation-.git
-cd Customer-Segmentation-
+git clone https://github.com/NandaTadepalli/Customer-Segmentation.git
+cd Customer-Segmentation
 ```
 
 2. Install required packages:
